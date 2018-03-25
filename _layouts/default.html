@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <h1>KOOKOOKACHU</h1>
+    <h1 id='site-anim-title'>KOOKOOKACHU</h1>
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
@@ -46,5 +46,15 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous"></script>
+
+      <script>
+        console.log("I'm in ya javascripts");
+        $('#site-titie').html("U WOT")
+      </script>
   </body>
 </html>
