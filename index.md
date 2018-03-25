@@ -1,14 +1,15 @@
-<center><a href="https://www.linkedin.com/in/jwiseanimates/"><img src="images/linkedin.png" alt="Linked In" style="width: 8%; border:none;text-shadow:none;" /></a><a href="Jessica Resume.pdf" class="resume"><img src="images/resumeicon.png" alt="Resume" style="width: 10%;border:none;text-shadow:none;" /></a></center>
+<center><a href="https://www.linkedin.com/in/jwiseanimates/"><img src="images/linkedin.png" alt="Linked In" style="width: 8%; border:none;text-shadow:none;box-shadow:none;" /></a><a href="Jessica Resume.pdf" class="resume"><img src="images/resumeicon.png" alt="Resume" style="width: 10%;border:none;text-shadow:none;box-shadow:none;" /></a></center>
 
 ## About
-Version8
+Version9
 
 
 ## Projects
 
 ### ReEmploy
 
-<a href="jessicawise.github.io/reemploy"><img src="images/ReEmploy.png" alt="ReEmploy" style="width: 70%;border:none;text-shadow:none;" /></a>
+<a href="jessicawise.github.io/reemploy"><img src="images/ReEmploy.png" alt="ReEmploy" style="width: 70%;border:none;text-shadow:none;box-shadow:none;" /></a>
+<br />
 <strong>Role:</strong> User Researcher, UX Designer, UX Developer
 <br />
 <strong>About:</strong> ReEmploy is a work in progress web application that came about when I was laid off work. I had never been laid off before and being in that situation left me feeling lost and without purpose. An engineering friend of mine proposed the idea to me to help me from being a lump in my apartment. The project is still a work in progress but it helped me realize that I wanted to get back to my creative roots. With that in mind, working on the project helped me solidify my decision in switching my career to UX Design/Development.
