@@ -34,7 +34,7 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-      Testing...
+        <div class="Logo"></div>
         {{ content }}
       </section>
     </div>
@@ -56,7 +56,17 @@
     </script>
     
     <script
-      src="https://github.com/blaiprat/jquery.animateSprite/blob/master/scripts/jquery.animateSprite.js"
+      src="https://blaiprat.github.io/jquery.animateSprite/js/jquery.animateSprite.js" >
+    </script>
+    
+    <script>
+    $(".Logo").animateSprite({
+  fps: 24,
+  animations: {
+    main: Array.apply(null,{length:132}).map(Number.call,Number)
+  },
+  loop: false
+})
     </script>
     
   </body>
