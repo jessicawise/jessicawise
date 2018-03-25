@@ -55,7 +55,14 @@
 
     <script>
       console.log("I'm in ya javascripts");
-      $('#site-titie').html("U WOT")
+      var x = true
+      setInterval(() => {
+        if (x) {
+          $('#site-anim-title').html("U WOT")
+        } else {
+          $('#site-anim-title').html("M8")
+        }
+      }, 100)
     </script>
   </body>
 </html>
