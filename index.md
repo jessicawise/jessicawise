@@ -4,7 +4,7 @@
 
 ### ReEmploy
 
-<a href="jessicawise.github.io/reemploy"><img src="images/ReEmploy.png" alt="ReEmploy" style="width: 70%;border:none;text-shadow:none;box-shadow:none;" /></a>
+<a href="https://jessicawise.github.io/reemploy/"><img src="images/ReEmploy.png" alt="ReEmploy" style="width: 70%;border:none;text-shadow:none;box-shadow:none;" /></a>
 <br />
 <strong>Role:</strong> User Researcher, UX Designer, UX Developer
 <br />
