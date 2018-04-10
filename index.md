@@ -4,7 +4,9 @@
 
 ### ReEmploy
 
-<a href="https://jessicawise.github.io/reemploy/"><img src="images/ReEmploy.png" alt="ReEmploy" style="width: 70%;border:none;text-shadow:none;box-shadow:none;" /></a>
+<a href="https://jessicawise.github.io/reemploy/"><img src="images/ReEmploy.png" alt="ReEmploy" style="width: 70%;border:none;text-shadow:none;box-shadow:none;" />
+<br />
+Go to Project</a>
 <br />
 <strong>Role:</strong> User Researcher, UX Designer, UX Developer
 <br />
@@ -12,7 +14,9 @@
 
 ### Venture.ng
 
-<a href="https://jessicawise.github.io/venture.ng/"><img src="images/ventureng.png" alt="Venture.ng" style="width: 70%;border:none;text-shadow:none;box-shadow:none;" /></a>
+<a href="https://jessicawise.github.io/venture.ng/"><img src="images/ventureng.png" alt="Venture.ng" style="width: 70%;border:none;text-shadow:none;box-shadow:none;" />
+<br />
+Go to Project</a>
 <br />
 <strong>Role:</strong> User Researcher, UX Designer
 <br />
