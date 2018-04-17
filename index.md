@@ -10,7 +10,7 @@ Go to Project</a>
 <br />
 <strong>Role:</strong> User Researcher, UX Designer, UX Developer
 <br />
-<strong>About:</strong> ReEmploy is a work in progress web application that came about when I was laid off work. I had never been laid off before and being in that situation left me feeling lost and without purpose. An engineering friend of mine proposed the idea to me to help me from being a lump in my apartment. The project is still a work in progress but it helped me realize that I wanted to get back to my creative roots. With that in mind, working on the project helped me solidify my decision in switching my career to UX Design/Development.
+<strong>About:</strong> ReEmploy is a work in progress web application that came about when I was laid off work. I had never been laid off before and being in that situation left me feeling lost and without purpose. An engineering friend of mine proposed the idea to me to help me stop being a lump in my apartment. The project is still a work in progress but it helped me realize that I wanted to get back to my creative roots. With that in mind, working on the project helped me solidify my decision in switching my career to UX Design/Development.
 
 ### Venture.ng
 
