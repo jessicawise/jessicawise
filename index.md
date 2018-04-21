@@ -9,7 +9,7 @@
 <br />
 Go to Project</a>
 <br />
-<strong>Role:</strong> User Researcher, UX Designer
+<strong>Role:</strong> User Researcher, UX Designer, UX Developer
 <br />
 <strong>About:</strong> This was my project for my General Assembly UX Design course. We were tasked with creating a website or application for a problem that we were interested in. My idea came from a hobby that I partake in with my college friends. They were very supportive during my time out of work and encouraged me to continue playing Dungeons and Dragons with them on the weekend, so I wasn't just loafing in bed after working on ReEmploy. My friends are all in different states and because of that, playing a tabletop game hasn't been easy. Many of the virtual tabletop applications we've tried aren't user friendly and can be very frustrating. This was the driving force for me to design Venture.ng, a user friendly yet still robust virtual tabletop web application. This is a work in progress design, as it will be worked on in steps during my General Assembly course. I also plan to continue working on it afterwards to completely solidify the entire application design.
 
